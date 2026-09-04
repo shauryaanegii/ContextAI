@@ -1,6 +1,6 @@
 # 📕 ContextAI
 
-*An AI-powered document assistant that lets you interact with your PDFs using natural language.*
+*An AI-powered document assistant that lets you interact with your PDFs using natural language, built with LangChain and Retrieval-Augmented Generation (RAG).*
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/ContextAI.git
+git clone https://github.com/shauryaanegii/ContextAI.git
 cd ContextAI
 python -m venv .venv
 .venv\Scripts\activate
