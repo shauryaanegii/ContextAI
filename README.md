@@ -57,7 +57,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-> It's a good idea to pin these in a `requirements.txt` file for reproducible installs.
 
 ### 4. Configure environment variables
 
