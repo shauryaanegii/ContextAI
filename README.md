@@ -40,8 +40,8 @@ ContextAI is a Retrieval-Augmented Generation (RAG) based PDF question-answering
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/shauryaanegii/ContextAI.git
+cd ContextAI
 ```
 
 ### 2. Create a virtual environment (recommended)
